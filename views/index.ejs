@@ -1,0 +1,15 @@
+<% include ./partials/header %>
+  <div class="section values">
+    <div class="container">
+      <div class="row">
+        <% for(i=0; i<book3.length; i++){%>
+        <div class="one-third column value">
+          <h5 class="value-heading"><%= book3[i].title %></h5>
+          <img src="/images/<%= book3[i].cover %>">
+          <p class="value-description"><%= book3[i].publisher %>, <%= book3[i].year %></p>
+        </div>
+        <%}%>
+      </div>
+    </div>
+  </div>
+<% include ./partials/footer %>

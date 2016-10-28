@@ -1,0 +1,68 @@
+{"data": {
+    "debug": "on",
+    "author": {
+        "name": "Silvana De Mari",
+        "shortBio": "scrittrice italiana",
+        "birth": "Caserta, 28 maggio 1953"
+    },
+    "book": [{ 
+        "title": "L'ultimo elfo",
+        "year": 2004,
+        "author": "Silvana De Mari",
+        "publisher": "Salani",
+        "designer": "Gianni De Conno",
+        "cover": "ultimoelfo.jpg",
+        "url-wikipedia": "https://it.wikipedia.org/wiki/L%27ultimo_elfo",
+        "url-ibs": "http://www.ibs.it/ser/serlib.asp?isbn=9788884514011&redir=no"
+    },
+    { 
+        "title": "L'ultimo orco",
+        "year": 2005,
+        "author": "Silvana De Mari",
+        "publisher": "Salani",
+        "designer": "",
+        "cover": "ultimoorco.jpg",
+        "url-wikipedia": "",
+        "url-ibs": "http://www.ibs.it/code/9788869188398/de-mari-silvana/ultimo-orco.html"
+    },
+    { 
+        "title": "Gli ultimi incantesimi",
+        "year": 2008,
+        "author": "Silvana De Mari",
+        "publisher": "Salani",
+        "designer": "",
+        "cover": "ultimiincanti.jpg",
+        "url-wikipedia": "",
+        "url-ibs": "http://www.ibs.it/code/9788867154494/de-mari-silvana/ultimi-incantesimi.html"
+    },
+    { 
+        "title": "L'ultima profezia del mondo degli uomini",
+        "year": 2010,
+        "author": "Silvana De Mari",
+        "publisher": "Fanucci",
+        "designer": "",
+        "cover": "profezia.jpg",
+        "url-wikipedia": "https://it.wikipedia.org/wiki/L%27ultima_profezia_del_mondo_degli_uomini",
+        "url-ibs": "http://www.ibs.it/code/9788834716663/de-mari-silvana/ultima-profezia-del-mondo.html"
+    },
+     { 
+        "title": "Io mi chiamo Yorsh,",
+        "year": 2011,
+        "author": "Silvana De Mari",
+        "publisher": "Fanucci",
+        "designer": "Gianni De Conno",
+        "cover": "placeholder.png",
+        "url-wikipedia": "",
+        "url-ibs": "http://www.ibs.it/code/9788834718285/de-mari-silvana/ultima-profezia-del-mondo.html"
+    },
+     { 
+        "title": "L'ultima Profezia del mondo degli uomini - l'epilogo",
+        "year": 2012,
+        "author": "Silvana De Mari",
+        "publisher": "Fanucci",
+        "designer": "",
+        "cover": "placeholder.png",
+        "url-wikipedia": "",
+        "url-ibs": "http://www.ibs.it/code/9788834721186/de-mari-silvana/ultima-profezia-del-mondo.html"
+    }]
+}} 
